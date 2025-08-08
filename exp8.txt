@@ -1,0 +1,22 @@
+<!DOCtype html>
+<html>
+<head>
+<title> Internal CSS</title>
+<style>
+Body{
+Background-color: lightblue;
+}
+h1{
+color: navy;
+}
+p{
+Color:orange;
+Font-size:16px;
+}
+</style>
+</head>
+<body>
+<h1> WELCOME TO INTERNAL CSS!</h1>
+<p>this paragraph belongs to Internal css.</p>
+</body>
+</html>
